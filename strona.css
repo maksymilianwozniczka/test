@@ -1,0 +1,30 @@
+body{
+    background-color: rgb(184, 25, 25);
+    scroll-behavior: smooth;
+    font-family: 'Tilt Warp', cursive;
+}
+
+header{
+    background-color: #ff6c10;
+    color: rgb(121, 10, 169);
+    padding: 20px;
+    margin: 20px;
+    border: 5px solid red;
+    border-radius: 10px;
+}
+
+ul{
+    display: flex;
+    list-style: none;
+    gap: 20px;
+    justify-content: space-around;
+    align-content: center;
+}
+
+.klasa1{
+    background-color: pink;
+}
+
+img{
+    width: 80%;
+}
